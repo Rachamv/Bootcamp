@@ -1,4 +1,4 @@
-# Command Line Adventure 2.0 🚀
+# Command Line Adventure 1.1 🚀
 
 ## Welcome to the Command Line Adventure! 
 
